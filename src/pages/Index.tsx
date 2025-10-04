@@ -421,7 +421,7 @@ const Index = () => {
               <ul className="space-y-2 text-gray-500">
                 <li className="hover:text-white transition-colors">+7 (495) 123-45-67</li>
                 <li className="hover:text-white transition-colors">info@triumf-print.ru</li>
-                <li>г. Москва, ул. Печатников, д. 15</li>
+                <li>г. Пермь,  улица Механошина, 29</li>
               </ul>
             </div>
           </div>
